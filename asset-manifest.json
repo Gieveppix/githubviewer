@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/githubviewer/static/css/main.b379b09e.css",
+    "main.js": "/githubviewer/static/js/main.2192a33f.js",
+    "index.html": "/githubviewer/index.html",
+    "main.b379b09e.css.map": "/githubviewer/static/css/main.b379b09e.css.map",
+    "main.2192a33f.js.map": "/githubviewer/static/js/main.2192a33f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b379b09e.css",
+    "static/js/main.2192a33f.js"
+  ]
+}
